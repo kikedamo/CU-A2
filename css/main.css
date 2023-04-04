@@ -230,9 +230,8 @@ body video {
 }
 
 .card:hover {
-  -webkit-transform: translateY(-8px);
   transform: translateY(-8px);
-  transition: ease-in-out;
+  transition: ease-in;
   transition-duration: 0.3s;
 }
 
